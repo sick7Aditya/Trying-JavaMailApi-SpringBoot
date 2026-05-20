@@ -1,0 +1,15 @@
+This file is an replacement to the Application.properties...
+spring.mail.host = smtp.gmail.com
+spring.mail.port=587
+spring.mail.username =xyz@gmail.com
+spring.mail.password =****************
+spring.mail.properties.mail.smtp.auth =true
+spring.mail.properties.mail.smtp.starttls.enable=true
+
+
+added this because i wanted to use Logger by Lombok :3
+logging.level.root=INFO
+
+
+//variable type of :3
+app.mail.from =xyz@gmail.com
